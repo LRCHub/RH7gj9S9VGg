@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Let Me B",
+  "base_artist": "MANDY B.BLUE",
+  "createdAt": "2025-12-01T06:47:48.517368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "let me b",
+      "artist": "jaydes",
+      "has_synced": true,
+      "path": "select/01_let_me_b_jaydes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "let me b (Paused)",
+      "artist": "jaydes",
+      "has_synced": true,
+      "path": "select/02_let_me_b_(Paused)_jaydes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LET ME BE (RATW Ver.)",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_01_LET_ME_BE_(RATW_Ver.)_GLAY.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "LET ME BE (THE GREAT VACATION at makuhari messe Live ver.)",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_02_LET_ME_BE_(THE_GREAT_VACATION_at_makuhari_messe_Live_ver.)_GLAY.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Let me burn!! feat.黄瀬涼太(木村良平)",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_03_Let_me_burn!!_feat.黄瀬涼太(木村良平)_GLAY.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Let Me Be The One",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_04_Let_Me_Be_The_One_GLAY.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Let Me Blow Ya Mind (feat. Gwen Stefani)",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_05_Let_Me_Blow_Ya_Mind_(feat._Gwen_Stefani)_GLAY.txt"
+    }
+  ]
+}
